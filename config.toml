@@ -82,3 +82,5 @@ languageName = "简体中文"
 [params.utteranc]
   enable = true
   repo = "lyqscmy/blog"
+  issueTerm = "pathname"
+  theme = "github-light"
